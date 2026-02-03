@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>Login</title>
 <style>
-/* --- Your CSS goes here --- */
+
 * { box-sizing: border-box; }
 body { margin:0; font-family: Arial, sans-serif; }
 
